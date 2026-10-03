@@ -1,0 +1,15 @@
+/Users/talal/Desktop/I Can/bin/Debug/net10.0/I Can
+/Users/talal/Desktop/I Can/bin/Debug/net10.0/I Can.deps.json
+/Users/talal/Desktop/I Can/bin/Debug/net10.0/I Can.runtimeconfig.json
+/Users/talal/Desktop/I Can/bin/Debug/net10.0/I Can.dll
+/Users/talal/Desktop/I Can/bin/Debug/net10.0/I Can.pdb
+/Users/talal/Desktop/I Can/obj/Debug/net10.0/I Can.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talal/Desktop/I Can/obj/Debug/net10.0/I Can.AssemblyInfoInputs.cache
+/Users/talal/Desktop/I Can/obj/Debug/net10.0/I Can.AssemblyInfo.cs
+/Users/talal/Desktop/I Can/obj/Debug/net10.0/I Can.csproj.CoreCompileInputs.cache
+/Users/talal/Desktop/I Can/obj/Debug/net10.0/I Can.sourcelink.json
+/Users/talal/Desktop/I Can/obj/Debug/net10.0/I Can.dll
+/Users/talal/Desktop/I Can/obj/Debug/net10.0/refint/I Can.dll
+/Users/talal/Desktop/I Can/obj/Debug/net10.0/I Can.pdb
+/Users/talal/Desktop/I Can/obj/Debug/net10.0/I Can.genruntimeconfig.cache
+/Users/talal/Desktop/I Can/obj/Debug/net10.0/ref/I Can.dll
