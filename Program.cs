@@ -1,1 +1,2 @@
-﻿Console.WriteLine("lll");
+﻿string a = "Talal";
+Console.WriteLine(a);
